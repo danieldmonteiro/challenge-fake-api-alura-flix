@@ -1,4 +1,5 @@
-[
+{
+  "data-videos": [
     {
       "id": "1",
       "titulo": "O que faz uma desenvolvedora Front-end",
@@ -72,3 +73,4 @@
       "descricao": "Grande parte da experiência de serviços hoje, passa pelo mobile, isso pela praticidade de estarmos o tempo todo conectados. Isso faz com que haja uma demanda crescente por profissionais capacitados para desenvolver essas aplicações."
     }
   ]
+}
